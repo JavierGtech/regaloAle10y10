@@ -1,8 +1,8 @@
 # Mi variación de la OpenAI API Quickstart - Node.js example app
 
-Este es un ejemplo de cómo darle una sorpresa friki y agradable a tu novia a la vez que aprendes a programar un poco de IA. 
+Un ejemplo para jugar un poco con la API de OpenAI sin apenas preparación y ver lo que se puede a hacer . 
 
-Me he basado al 100% en OpenAI API [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
+Basado al 100% en OpenAI API [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
 ## Setup
 
